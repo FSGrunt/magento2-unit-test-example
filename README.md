@@ -1,4 +1,6 @@
-##Executing the test
+# How to write Magento 2 Unit Tests
+
+## Executing the test
 
 execute all the unit tests from all the modules of Magento2 including ours:
 `php bin/magento dev:tests:run unit`
