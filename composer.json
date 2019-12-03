@@ -1,0 +1,28 @@
+{
+  "name": "FSGrunt/magento2-unit-test-example",
+  "type": "magento2-module",
+  "authors": [
+    {
+      "name": "Fabian Schmidberger",
+      "email": "schmidberger.fabian@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    "php": "^7.1"
+  },
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://repo.magento.com/"
+    }
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "FSGrunt\\Magento2UnitTestExample\\": ""
+    }
+  }
+}
