@@ -1,4 +1,4 @@
-# How to write Magento 2 Unit Tests
+# How to write Magento 2 Unit Tests & Integration Test
 
 ## Executing the test
 
